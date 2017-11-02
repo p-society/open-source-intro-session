@@ -1,7 +1,7 @@
 # Open Source Introduction
 ### Brought to you by IIIT-Bh Programming Society
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) [![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/uses-git.svg)](http://forthebadge.com)
 
 This document lists the timeline of the introduction to open source session by the by IIIT-Bh Programming Society
 
@@ -48,20 +48,22 @@ This document lists the timeline of the introduction to open source session by t
 
 ##### Specific organizations to be discussed [20 mins]
 --------------
-
 Anyone of the presenters can share one experience about organization
+
 | Organization | Presenter |
 | ------ | ------ |
-| coala | Palash Nigam, Ravi Teja, Ayush Shridhar |
+| coala | Palash Nigam, Ayush Shridhar |
 | Sympy | Ayush Shridhar |
 | DuckDuckGo | Palash Nigam |
 | Astropy | Ayush Shridhar |
 | KDE | Aman Gupta |
+| Boost | Aman Gupta |
 
 ##### Carreer Opportunities
 ---------------------
 
 #### Open to all
+
 | Program | Organizer | Stipend | Remote |
 | ------ | ------ | ------ | ------ |
 | Google Summer of Code | Google | Yes ($2500) | Yes |
@@ -69,15 +71,19 @@ Anyone of the presenters can share one experience about organization
 | Code Sprint | OWASP | Yes ($1500) | Yes |
 | Summer of Privacy | TOR | Yes | Yes |
 | Winter of Security | Mozilla | No | Yes |
-| EVoC | X.Org | Yes | Yes ($5000) |
+| EVoC | X.Org | Yes ($5000) | Yes |
 | BOSS | Coding Block | No | Yes |
+
 #### Exclusively for the ladies
+
 | Program | Organizer | Stipend | Remote |
 | ------ | ------ | ------ | ------ |
 | RGSOC | Rails | Yes | Yes |
-| Outreachy | Wikimedia, Gnome, Mozilla etc |  |  |
+| Outreachy | Wikimedia, Gnome, Mozilla etc |  | Yes |
 
 
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) by [Palash Nigam](https://github.com/palash25/)
 
 
 
