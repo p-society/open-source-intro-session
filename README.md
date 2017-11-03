@@ -3,6 +3,10 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) [![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/uses-git.svg)](http://forthebadge.com)
 
+------------------------------
+
+![image](https://raw.githubusercontent.com/palash25/open-source-intro-session/master/assets/img.jpeg)
+
 This document lists the timeline of the introduction to open source session by the by IIIT-Bh Programming Society
 
 ## Timeline [Estimated time: 2-3 hours]
